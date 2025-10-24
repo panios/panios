@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-24T00:11:14.676977",
+  "generated_at": "2025-10-24T09:13:09.242237",
   "username": "panios",
   "overview": {
-    "total_repositories": 59,
+    "total_repositories": 47,
     "public_repositories": 21,
-    "private_repositories": 38,
+    "private_repositories": 26,
     "forked_repositories": 4
   },
   "activity_summary": {
@@ -16,96 +16,93 @@
     "active_repos_month": 7
   },
   "language_distribution": {
-    "Python": 27.63,
-    "JavaScript": 10.48,
-    "Java": 0.2,
-    "R": 2.25,
+    "Python": 17.38,
+    "JavaScript": 13.37,
+    "Java": 0.26,
+    "R": 2.7,
     "Scala": 0.02,
-    "Shell": 1.71,
-    "Dockerfile": 0.2,
-    "HCL": 0.55,
-    "Makefile": 0.1,
-    "Jupyter Notebook": 5.47,
-    "HTML": 32.63,
+    "Shell": 0.22,
+    "Dockerfile": 0.03,
+    "Batchfile": 0.12,
+    "HTML": 41.79,
     "CSS": 0.46,
-    "PHP": 0.02,
-    "Smarty": 0.01,
-    "Batchfile": 0.09,
     "TypeScript": 0.0,
-    "TeX": 18.16,
+    "HCL": 0.29,
+    "Makefile": 0.02,
+    "TeX": 23.33,
     "D": 0.0
   },
   "top_languages": [
     [
       "HTML",
-      32.63
-    ],
-    [
-      "Python",
-      27.63
+      41.79
     ],
     [
       "TeX",
-      18.16
+      23.33
+    ],
+    [
+      "Python",
+      17.38
     ],
     [
       "JavaScript",
-      10.48
+      13.37
     ],
     [
-      "Jupyter Notebook",
-      5.47
+      "R",
+      2.7
     ]
   ],
   "social_metrics": {
-    "total_stars": 12,
-    "total_forks": 11,
+    "total_stars": 11,
+    "total_forks": 10,
     "total_watchers": 0,
-    "total_open_issues": 51,
-    "total_size_kb": 877079
+    "total_open_issues": 26,
+    "total_size_kb": 809497
   },
   "private_work_indicator": {
     "description": "Currently working on private projects",
-    "active_private_repos": 38,
+    "active_private_repos": 26,
     "private_commits_this_month": 31,
     "primary_private_languages": [
-      [
-        "Python",
-        2715561
-      ],
       [
         "TeX",
         2404028
       ],
       [
-        "Jupyter Notebook",
-        728903
+        "Python",
+        837936
+      ],
+      [
+        "HTML",
+        187923
       ]
     ]
   },
   "time_patterns": {
     "coding_style": "\u2600\ufe0f Day Worker",
     "peak_hour": {
-      "hour": 16,
-      "commits": 193,
-      "label": "16:00"
+      "hour": 15,
+      "commits": 150,
+      "label": "15:00"
     },
     "peak_day": {
       "day": 4,
-      "commits": 325,
+      "commits": 245,
       "name": "Thursday"
     },
     "period_percentages": {
-      "morning": 17.0,
-      "afternoon": 52.4,
-      "evening": 21.7,
-      "night": 9.0
+      "morning": 17.9,
+      "afternoon": 53.2,
+      "evening": 20.4,
+      "night": 8.4
     },
     "by_period": {
-      "morning": 279,
-      "afternoon": 861,
-      "evening": 356,
-      "night": 148
+      "morning": 222,
+      "afternoon": 659,
+      "evening": 253,
+      "night": 104
     }
   }
 }
