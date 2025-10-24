@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *The pseudo-savoir-faire of the AI era, where one's expertise is measured by the proficiency of their ChatGPT prompts, rather than the complexity of their own mind, a perfect example of how the simulacrum of knowledge has supplanted the thing itself.*
+> *We live in an era where the pseudo-expertise born from the recursive womb of chatbots is mistaken for knowledge, and the true hermeneutics of artificial intelligence devolves into a parody of itself, a simulacrum of wisdom.*
 >
 > — Umberto Eco, probably
 
@@ -24,11 +24,11 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 ## 📊 GitHub Activity & Statistics
 
 ### 🔥 Recent Activity (Last 30 Days)
-![Commits](https://img.shields.io/badge/Commits_This_Month-56-blue?style=flat-square&logo=git)
+![Commits](https://img.shields.io/badge/Commits_This_Month-57-blue?style=flat-square&logo=git)
 ![Active Repos](https://img.shields.io/badge/Active_Repos-8-green?style=flat-square&logo=github)
-![Today's Commits](https://img.shields.io/badge/Today-2_commits-orange?style=flat-square&logo=github)
+![Today's Commits](https://img.shields.io/badge/Today-3_commits-orange?style=flat-square&logo=github)
 
-**Weekly Activity:** 42 commits across 4 repositories
+**Weekly Activity:** 43 commits across 4 repositories
 
 ### 📦 Repository Overview
 | Metric | Count |
@@ -40,7 +40,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 ### 🔒 Private Work Indicator
 > **Currently active in 26 private repositories**
 > 
-> 🚀 **52 commits** in private projects this month
+> 🚀 **53 commits** in private projects this month
 
 *Working on confidential projects involving:*
 - **TeX** (primary focus)
@@ -49,29 +49,49 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ---
 
-### 💻 Language Distribution
+### ⚡ Productivity Insights
+
 
 <table>
-<tr><td>
+<tr>
+<td width="50%">
 
-**HTML** `41.74%`  
-`████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+**📊 Coding Stats**
+- 📅 **Most Productive Day**: `Thursday` (245 commits)
+- ⏰ **Peak Coding Hour**: `15:00` (151 commits)
+- 🔥 **Longest Streak**: 3 consecutive days
+- 📈 **Average Daily Commits**: 1.9
+- 💪 **Best Week**: 2 commits
 
-**TeX** `23.31%`  
-`███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+</td>
+<td width="50%">
 
-**Python** `17.46%`  
-`████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+**🔥 Most Active Repositories (Last 30 Days)**
 
-**JavaScript** `13.36%`  
-`██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+`profile_analytics        ` `████████████████████` 31
+`KPIs                     ` `████░░░░░░░░░░░░░░░░` 7
+`OTRS_chatbot             ` `████░░░░░░░░░░░░░░░░` 7
+`panios                   ` `██░░░░░░░░░░░░░░░░░░` 4
+`Moodle_AWS               ` `█░░░░░░░░░░░░░░░░░░░` 3
 
-**R** `2.7%`  
-`█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-
-</td></tr>
+</td>
+</tr>
 </table>
+
+---
+
+### 📈 30-Day Contribution Heatmap
+
+```
+Week 1  ▁▁▃▁▁▁▁
+Week 2  ▁▁▃▁▁▁▁
+Week 3  ▃▁▇▃▃▁▁
+Week 4  ▁▁▁█▅▁▁
+        M T W T F S S
+```
+
+**Legend:** ▁ None  ▃ 1-2  ▅ 3-5  ▇ 6-10  █ 10+
 
 ---
 
@@ -84,7 +104,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 <td width="50%">
 
 **🕐 Peak Coding Hour**
-`15:00` with **150 commits**
+`15:00` with **151 commits**
 
 **📅 Most Active Day**
 `Thursday` with **245 commits**
@@ -93,8 +113,8 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 <td width="50%">
 
 **Time Distribution:**
-- ☀️ **Afternoon**: `53.0%` ██████████
-- 🌆 **Evening**: `20.3%` ████
+- ☀️ **Afternoon**: `53.2%` ██████████
+- 🌆 **Evening**: `20.2%` ████
 - 🌅 **Morning**: `18.3%` ███
 - 🌙 **Night**: `8.3%` █
 
@@ -120,7 +140,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ```text
 🔹 Most Active This Week: 4 repositories
-🔹 Commits This Month: 56
+🔹 Commits This Month: 57
 🔹 Average Daily Commits: 1.9
 🔹 Total Code Size: 790.6 MB
 ```
@@ -138,7 +158,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ---
 
-*Last updated: October 24, 2025 at 12:45 UTC*  
+*Last updated: October 24, 2025 at 13:33 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
