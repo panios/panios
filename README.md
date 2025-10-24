@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *The irony of our time: we live in an era where an artificial intelligence is more authentic because it's transparent about its artificiality, whereas the so-called AI experts who have learned to converse with it are masters of simulation, disguising their own ignorance behind a veil of algorithmic jargon.*
+> *The pseudo-savoir-faire of the AI era, where one's expertise is measured by the proficiency of their ChatGPT prompts, rather than the complexity of their own mind, a perfect example of how the simulacrum of knowledge has supplanted the thing itself.*
 >
 > — Umberto Eco, probably
 
@@ -24,11 +24,11 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 ## 📊 GitHub Activity & Statistics
 
 ### 🔥 Recent Activity (Last 30 Days)
-![Commits](https://img.shields.io/badge/Commits_This_Month-34-blue?style=flat-square&logo=git)
-![Active Repos](https://img.shields.io/badge/Active_Repos-7-green?style=flat-square&logo=github)
-![Today's Commits](https://img.shields.io/badge/Today-0_commits-orange?style=flat-square&logo=github)
+![Commits](https://img.shields.io/badge/Commits_This_Month-56-blue?style=flat-square&logo=git)
+![Active Repos](https://img.shields.io/badge/Active_Repos-8-green?style=flat-square&logo=github)
+![Today's Commits](https://img.shields.io/badge/Today-2_commits-orange?style=flat-square&logo=github)
 
-**Weekly Activity:** 27 commits across 4 repositories
+**Weekly Activity:** 42 commits across 4 repositories
 
 ### 📦 Repository Overview
 | Metric | Count |
@@ -40,7 +40,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 ### 🔒 Private Work Indicator
 > **Currently active in 26 private repositories**
 > 
-> 🚀 **31 commits** in private projects this month
+> 🚀 **52 commits** in private projects this month
 
 *Working on confidential projects involving:*
 - **TeX** (primary focus)
@@ -54,16 +54,16 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 <table>
 <tr><td>
 
-**HTML** `41.79%`  
+**HTML** `41.74%`  
 `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-**TeX** `23.33%`  
+**TeX** `23.31%`  
 `███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-**Python** `17.38%`  
+**Python** `17.46%`  
 `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
-**JavaScript** `13.37%`  
+**JavaScript** `13.36%`  
 `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
 
 **R** `2.7%`  
@@ -93,10 +93,10 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 <td width="50%">
 
 **Time Distribution:**
-- ☀️ **Afternoon**: `53.1%` ██████████
-- 🌆 **Evening**: `20.4%` ████
-- 🌅 **Morning**: `18.1%` ███
-- 🌙 **Night**: `8.4%` █
+- ☀️ **Afternoon**: `53.0%` ██████████
+- 🌆 **Evening**: `20.3%` ████
+- 🌅 **Morning**: `18.3%` ███
+- 🌙 **Night**: `8.3%` █
 
 </td>
 </tr>
@@ -120,9 +120,9 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ```text
 🔹 Most Active This Week: 4 repositories
-🔹 Commits This Month: 34
-🔹 Average Daily Commits: 1.1
-🔹 Total Code Size: 790.5 MB
+🔹 Commits This Month: 56
+🔹 Average Daily Commits: 1.9
+🔹 Total Code Size: 790.6 MB
 ```
 
 ---
@@ -138,7 +138,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ---
 
-*Last updated: October 24, 2025 at 10:01 UTC*  
+*Last updated: October 24, 2025 at 12:45 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
