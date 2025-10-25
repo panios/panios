@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T15:52:11.427805Z",
+  "generated_at": "2025-10-25T00:13:00.280495Z",
   "username": "panios",
   "overview": {
     "total_repositories": 47,
@@ -8,11 +8,11 @@
     "forked_repositories": 4
   },
   "activity_summary": {
-    "commits_today": 11,
-    "commits_this_week": 51,
+    "commits_today": 0,
+    "commits_this_week": 50,
     "commits_this_month": 65,
-    "active_repos_today": 1,
-    "active_repos_week": 4,
+    "active_repos_today": 0,
+    "active_repos_week": 3,
     "active_repos_month": 8
   },
   "language_distribution": {
@@ -59,7 +59,7 @@
     "total_forks": 10,
     "total_watchers": 0,
     "total_open_issues": 26,
-    "total_size_kb": 809527
+    "total_size_kb": 809538
   },
   "private_work_indicator": {
     "description": "Currently working on private projects",
@@ -108,8 +108,8 @@
   "productivity_insights": {
     "longest_streak": 3,
     "best_week": {
-      "start_date": "2025-10-17",
-      "commits": 40
+      "start_date": "2025-10-18",
+      "commits": 50
     },
     "average_daily_commits": 2.2,
     "most_active_repos": [
