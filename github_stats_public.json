@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T00:13:00.280495Z",
+  "generated_at": "2025-10-26T00:14:07.774882Z",
   "username": "panios",
   "overview": {
     "total_repositories": 47,
@@ -9,11 +9,11 @@
   },
   "activity_summary": {
     "commits_today": 0,
-    "commits_this_week": 50,
+    "commits_this_week": 51,
     "commits_this_month": 65,
     "active_repos_today": 0,
-    "active_repos_week": 3,
-    "active_repos_month": 8
+    "active_repos_week": 4,
+    "active_repos_month": 9
   },
   "language_distribution": {
     "Python": 17.51,
@@ -59,12 +59,12 @@
     "total_forks": 10,
     "total_watchers": 0,
     "total_open_issues": 26,
-    "total_size_kb": 809538
+    "total_size_kb": 809554
   },
   "private_work_indicator": {
     "description": "Currently working on private projects",
     "active_private_repos": 26,
-    "private_commits_this_month": 61,
+    "private_commits_this_month": 60,
     "primary_private_languages": [
       [
         "TeX",
@@ -94,22 +94,22 @@
     },
     "period_percentages": {
       "morning": 3.1,
-      "afternoon": 49.2,
-      "evening": 38.5,
+      "afternoon": 47.7,
+      "evening": 40.0,
       "night": 9.2
     },
     "by_period": {
       "morning": 2,
-      "afternoon": 32,
-      "evening": 25,
+      "afternoon": 31,
+      "evening": 26,
       "night": 6
     }
   },
   "productivity_insights": {
     "longest_streak": 3,
     "best_week": {
-      "start_date": "2025-10-18",
-      "commits": 50
+      "start_date": "2025-10-19",
+      "commits": 51
     },
     "average_daily_commits": 2.2,
     "most_active_repos": [
@@ -130,7 +130,7 @@
         4
       ],
       [
-        "panios/Moodle_AWS",
+        "panios/streamlit-ollama-chatbot",
         3
       ]
     ]
@@ -141,7 +141,7 @@
     "2025-10-23": 39,
     "2025-10-08": 1,
     "2025-10-01": 1,
-    "2025-09-26": 1,
+    "2025-10-25": 1,
     "2025-10-17": 1,
     "2025-10-16": 2,
     "2025-10-24": 11
