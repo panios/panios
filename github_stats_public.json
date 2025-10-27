@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T00:14:07.774882Z",
+  "generated_at": "2025-10-27T00:14:37.113883Z",
   "username": "panios",
   "overview": {
     "total_repositories": 47,
@@ -9,8 +9,8 @@
   },
   "activity_summary": {
     "commits_today": 0,
-    "commits_this_week": 51,
-    "commits_this_month": 65,
+    "commits_this_week": 52,
+    "commits_this_month": 66,
     "active_repos_today": 0,
     "active_repos_week": 4,
     "active_repos_month": 9
@@ -59,12 +59,12 @@
     "total_forks": 10,
     "total_watchers": 0,
     "total_open_issues": 26,
-    "total_size_kb": 809554
+    "total_size_kb": 809569
   },
   "private_work_indicator": {
     "description": "Currently working on private projects",
     "active_private_repos": 26,
-    "private_commits_this_month": 60,
+    "private_commits_this_month": 61,
     "primary_private_languages": [
       [
         "TeX",
@@ -93,23 +93,23 @@
       "name": "Thursday"
     },
     "period_percentages": {
-      "morning": 3.1,
-      "afternoon": 47.7,
-      "evening": 40.0,
-      "night": 9.2
+      "morning": 3.0,
+      "afternoon": 48.5,
+      "evening": 39.4,
+      "night": 9.1
     },
     "by_period": {
       "morning": 2,
-      "afternoon": 31,
+      "afternoon": 32,
       "evening": 26,
       "night": 6
     }
   },
   "productivity_insights": {
-    "longest_streak": 3,
+    "longest_streak": 4,
     "best_week": {
-      "start_date": "2025-10-19",
-      "commits": 51
+      "start_date": "2025-10-20",
+      "commits": 52
     },
     "average_daily_commits": 2.2,
     "most_active_repos": [
@@ -118,11 +118,11 @@
         39
       ],
       [
-        "panios/KPIs",
-        7
+        "panios/OTRS_chatbot",
+        8
       ],
       [
-        "panios/OTRS_chatbot",
+        "panios/KPIs",
         7
       ],
       [
@@ -142,6 +142,7 @@
     "2025-10-08": 1,
     "2025-10-01": 1,
     "2025-10-25": 1,
+    "2025-10-26": 1,
     "2025-10-17": 1,
     "2025-10-16": 2,
     "2025-10-24": 11
