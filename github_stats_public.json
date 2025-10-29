@@ -1,0 +1,152 @@
+{
+  "generated_at": "2025-10-29T06:46:58.302779Z",
+  "username": "panios",
+  "overview": {
+    "total_repositories": 47,
+    "public_repositories": 21,
+    "private_repositories": 26,
+    "forked_repositories": 4
+  },
+  "activity_summary": {
+    "commits_today": 1,
+    "commits_this_week": 56,
+    "commits_this_month": 70,
+    "active_repos_today": 1,
+    "active_repos_week": 5,
+    "active_repos_month": 9
+  },
+  "language_distribution": {
+    "Python": 17.51,
+    "JavaScript": 13.35,
+    "Java": 0.26,
+    "R": 2.7,
+    "Scala": 0.02,
+    "Shell": 0.22,
+    "Dockerfile": 0.03,
+    "Batchfile": 0.12,
+    "HTML": 41.72,
+    "CSS": 0.46,
+    "TypeScript": 0.0,
+    "HCL": 0.29,
+    "Makefile": 0.02,
+    "TeX": 23.29,
+    "D": 0.0
+  },
+  "top_languages": [
+    [
+      "HTML",
+      41.72
+    ],
+    [
+      "TeX",
+      23.29
+    ],
+    [
+      "Python",
+      17.51
+    ],
+    [
+      "JavaScript",
+      13.35
+    ],
+    [
+      "R",
+      2.7
+    ]
+  ],
+  "social_metrics": {
+    "total_stars": 11,
+    "total_forks": 10,
+    "total_watchers": 0,
+    "total_open_issues": 26,
+    "total_size_kb": 809644
+  },
+  "private_work_indicator": {
+    "description": "Currently working on private projects",
+    "active_private_repos": 26,
+    "private_commits_this_month": 64,
+    "primary_private_languages": [
+      [
+        "TeX",
+        2404028
+      ],
+      [
+        "Python",
+        854654
+      ],
+      [
+        "HTML",
+        187923
+      ]
+    ]
+  },
+  "time_patterns": {
+    "coding_style": "\u2600\ufe0f Day Worker",
+    "peak_hour": {
+      "hour": 16,
+      "commits": 14,
+      "label": "16:00"
+    },
+    "peak_day": {
+      "day": 3,
+      "commits": 37,
+      "name": "Thursday"
+    },
+    "period_percentages": {
+      "morning": 4.3,
+      "afternoon": 45.7,
+      "evening": 41.4,
+      "night": 8.6
+    },
+    "by_period": {
+      "morning": 3,
+      "afternoon": 32,
+      "evening": 29,
+      "night": 6
+    }
+  },
+  "productivity_insights": {
+    "longest_streak": 4,
+    "best_week": {
+      "start_date": "2025-10-22",
+      "commits": 55
+    },
+    "average_daily_commits": 2.3,
+    "most_active_repos": [
+      [
+        "panios/profile_analytics",
+        42
+      ],
+      [
+        "panios/OTRS_chatbot",
+        8
+      ],
+      [
+        "panios/KPIs",
+        7
+      ],
+      [
+        "panios/panios",
+        5
+      ],
+      [
+        "panios/streamlit-ollama-chatbot",
+        3
+      ]
+    ]
+  },
+  "daily_commits": {
+    "2025-10-13": 1,
+    "2025-10-15": 8,
+    "2025-10-23": 39,
+    "2025-10-08": 1,
+    "2025-10-01": 1,
+    "2025-10-25": 1,
+    "2025-10-26": 1,
+    "2025-10-28": 3,
+    "2025-10-17": 1,
+    "2025-10-16": 2,
+    "2025-10-29": 1,
+    "2025-10-24": 11
+  }
+}
