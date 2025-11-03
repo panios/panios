@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *"In this era of simulative authenticity, the self-proclaimed AI sages are merely a palimpsest of Wikipedia summaries and ChatGPT responses, their expertise reduced to a mere copy-paste of the digital underbrush."*
+> *The fetish of AI experts: learned by osmosis from ChatGPT, yet claiming mastery as if deciphering secret manuscripts in a monastery. Thus we witness the apotheosis of the self-taught charlatan, where expertise is a function of Google queries rather than rigor.*
 >
 > — Umberto Eco, probably
 
@@ -28,7 +28,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 ![Active Repos](https://img.shields.io/badge/Active_Repos-9-green?style=flat-square&logo=github)
 ![Today's Commits](https://img.shields.io/badge/Today-0_commits-orange?style=flat-square&logo=github)
 
-**Weekly Activity:** 8 commits across 3 repositories
+**Weekly Activity:** 7 commits across 2 repositories
 
 ### 📦 Repository Overview
 | Metric | Count |
@@ -69,10 +69,10 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 **📈 30-Day Contribution Heatmap**
 
 ```
-Week 1  ▁ ▁ ▃ ▁ ▁ ▁ ▁
-Week 2  ▃ ▁ ▇ ▃ ▃ ▁ ▁
-Week 3  ▁ ▁ ▁ █ █ ▃ ▃
-Week 4  ▁ ▅ ▅ ▁ ▁ ▁ ▁
+Week 1  ▃ ▁ ▇ ▃ ▃ ▁ ▁
+Week 2  ▁ ▁ ▁ █ █ ▃ ▃
+Week 3  ▁ ▅ ▅ ▁ ▁ ▁ ▁
+Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
         M T W T F S S
 ```
 
@@ -128,7 +128,7 @@ Week 4  ▁ ▅ ▅ ▁ ▁ ▁ ▁
 ### 📈 Contribution Insights
 
 ```text
-🔹 Most Active This Week: 3 repositories
+🔹 Most Active This Week: 2 repositories
 🔹 Commits This Month: 72
 🔹 Average Daily Commits: 2.4
 🔹 Total Code Size: 790.8 MB
@@ -147,7 +147,7 @@ Week 4  ▁ ▅ ▅ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: November 02, 2025 at 00:14 UTC*  
+*Last updated: November 03, 2025 at 00:14 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
