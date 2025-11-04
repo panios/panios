@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *The fetish of AI experts: learned by osmosis from ChatGPT, yet claiming mastery as if deciphering secret manuscripts in a monastery. Thus we witness the apotheosis of the self-taught charlatan, where expertise is a function of Google queries rather than rigor.*
+> *We find ourselves in a predicament where the signifiers of expertise have supplanted the thing itself, and the adepts of this simulacrum, having merely parroted the chatbot's catechism, proclaim themselves masters of a discipline they've merely perused in a superficial gloss.*
 >
 > — Umberto Eco, probably
 
@@ -131,7 +131,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 🔹 Most Active This Week: 2 repositories
 🔹 Commits This Month: 72
 🔹 Average Daily Commits: 2.4
-🔹 Total Code Size: 790.8 MB
+🔹 Total Code Size: 803.9 MB
 ```
 
 ---
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: November 03, 2025 at 00:14 UTC*  
+*Last updated: November 04, 2025 at 00:13 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
