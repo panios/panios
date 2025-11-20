@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *In this postmodern farce, the self-proclaimed AI guru is not the scholar who deciphered the hieroglyphs of computation, but the dilettante who merely learned to decipher ChatGPT's banalities and mistakes, thereby becoming an authority on the uncharted territories of the digital void.*
+> *The simulacrum of expertise: a plethora of self-proclaimed AI virtuosi, legitimized by their proficiency in conversing with a chatbot, now peddling their dubious knowledge as if the abyss between tool and master had been bridged.*
 >
 > — Umberto Eco, probably
 
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: November 19, 2025 at 00:13 UTC*  
+*Last updated: November 20, 2025 at 00:13 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
