@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *The simulacrum of expertise: a plethora of self-proclaimed AI virtuosi, legitimized by their proficiency in conversing with a chatbot, now peddling their dubious knowledge as if the abyss between tool and master had been bridged.*
+> *We have an entire generation of "AI experts" who mistake the ability to summon ChatGPT's platitudes for ontological insight, thus exemplifying the hermeneutic circle of self-referential obfuscation. In this hall of mirrors, the simulacrum of expertise has become the very definition of expertise itself.*
 >
 > — Umberto Eco, probably
 
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: November 20, 2025 at 00:13 UTC*  
+*Last updated: November 21, 2025 at 00:13 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
