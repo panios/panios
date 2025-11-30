@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *In the Age of Simulation, the true simulacrum is not a copy without an original, but an expert who has never read Borges, yet claims to deconstruct the metaverse.*
+> *In this era of hyper-availability, we have experts who have mastered the art of citing ChatGPT, yet remain utterly bereft of the semiotic nuances that underlie the very notion of "expertise" itself - a perfect exemplar of our times, where authority is a mere echo chamber of echo-chambered platitudes.*
 >
 > — Umberto Eco, probably
 
@@ -131,7 +131,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 🔹 Most Active This Week: 0 repositories
 🔹 Commits This Month: 26
 🔹 Average Daily Commits: 0.9
-🔹 Total Code Size: 804.3 MB
+🔹 Total Code Size: 804.4 MB
 ```
 
 ---
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: November 29, 2025 at 00:13 UTC*  
+*Last updated: November 30, 2025 at 00:15 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
