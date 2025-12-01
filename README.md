@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *In this era of hyper-availability, we have experts who have mastered the art of citing ChatGPT, yet remain utterly bereft of the semiotic nuances that underlie the very notion of "expertise" itself - a perfect exemplar of our times, where authority is a mere echo chamber of echo-chambered platitudes.*
+> *The vaunted AI expert, a paradoxical creature, born not of erudition but of recursive Google searches, who mistakes the simulacrum of omniscience for the thing itself, a latter-day Baudrillardian hyperreality in which knowing is merely a matter of knowing that one knows.*
 >
 > — Umberto Eco, probably
 
@@ -69,8 +69,8 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 **📈 30-Day Contribution Heatmap**
 
 ```
-Week 1  ▅ ▁ ▃ ▅ ▃ █ ▁
-Week 2  ▃ ▃ ▁ ▁ ▁ ▁ ▁
+Week 1  ▃ ▃ ▁ ▁ ▁ ▁ ▁
+Week 2  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 Week 3  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
         M T W T F S S
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: November 30, 2025 at 00:15 UTC*  
+*Last updated: December 01, 2025 at 00:16 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
