@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *The vaunted AI expert, a paradoxical creature, born not of erudition but of recursive Google searches, who mistakes the simulacrum of omniscience for the thing itself, a latter-day Baudrillardian hyperreality in which knowing is merely a matter of knowing that one knows.*
+> *In this epoch of simulacrum expertise, the most zealous AI evangelists are those who, having merely ingested the digital droppings of ChatGPT, now peddle their own 'research' as if the abyss of ignorance had miraculously been bridged by a few well-crafted responses.*
 >
 > — Umberto Eco, probably
 
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: December 01, 2025 at 00:16 UTC*  
+*Last updated: December 02, 2025 at 00:13 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
