@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *In the age of simulacra, we find experts of the machine born not from dialectics of the code, but from the facile intimacy of a chat prompt. They ride the waves of knowledge like pirates on a digital treasure map.*
+> *We live in an era where the fetish of omniscience is perpetuated by those who merely parrot the oracle of ChatGPT, their pseudo-expertise a testament to the triumph of performative knowledge over genuine comprehension, the simulacrum of wisdom supplanting true erudition.*
 >
 > — Umberto Eco, probably
 
@@ -147,7 +147,7 @@ Week 4  █ ▇ ▇ █ █ ▁ ▁
 
 ---
 
-*Last updated: December 20, 2025 at 00:14 UTC*  
+*Last updated: December 21, 2025 at 00:15 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
