@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *In the era of simulacra, we find ourselves besieged by pseudo-intellectuals who have ingested the sacred texts of AI by osmosis, via the digital font of ChatGPT, thus anointing themselves experts in the sacrosanct art of artificial intelligence, all while forgetting that the true simulacrum lies not in the machine, but in their own vacuous self-proclamations.*
+> *"We find ourselves ensnared in a labyrinth of epistemic narcissism, where the adept at summoning ChatGPT proclaims himself an expert in the very simulacrum he's merely learned to mimic."*
 >
 > — Umberto Eco, probably
 
@@ -28,7 +28,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 ![Active Repos](https://img.shields.io/badge/Active_Repos-1-green?style=flat-square&logo=github)
 ![Today's Commits](https://img.shields.io/badge/Today-0_commits-orange?style=flat-square&logo=github)
 
-**Weekly Activity:** 27 commits across 1 repositories
+**Weekly Activity:** 7 commits across 1 repositories
 
 ### 📦 Repository Overview
 | Metric | Count |
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: December 26, 2025 at 00:14 UTC*  
+*Last updated: December 27, 2025 at 00:13 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
