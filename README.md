@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *"We find ourselves ensnared in a labyrinth of epistemic narcissism, where the adept at summoning ChatGPT proclaims himself an expert in the very simulacrum he's merely learned to mimic."*
+> *In this era of simulated omniscience, we find ourselves surrounded by self-proclaimed AI gurus who, much like the ancient Sibyl devouring a single book of Aristotle, have ingested the entirety of ChatGPT and now peddle their hastily acquired 'expertise' to an unsuspecting public.*
 >
 > — Umberto Eco, probably
 
@@ -131,7 +131,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 🔹 Most Active This Week: 1 repositories
 🔹 Commits This Month: 122
 🔹 Average Daily Commits: 4.1
-🔹 Total Code Size: 815.3 MB
+🔹 Total Code Size: 815.4 MB
 ```
 
 ---
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: December 27, 2025 at 00:13 UTC*  
+*Last updated: December 28, 2025 at 00:16 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
