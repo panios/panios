@@ -15,7 +15,7 @@ Building AI systems, scalable infrastructure, and data-driven applications. Focu
 
 ### 💭 Daily Inspiration
 
-> *In our era of simulacra, the "experts" who converse with AI chatbots, rather than with the abyss of uncertainty, are merely the new Sophists, peddling the rhetoric of omniscience they themselves have ingested.*
+> *The semiotics of self-proclaimed expertise in the era of chatbots: we have experts who've only encountered the simulacrum, yet peddle reality like a cheap forgery in a Renaissance market.*
 >
 > — Umberto Eco, probably
 
@@ -147,7 +147,7 @@ Week 4  ▁ ▁ ▁ ▁ ▁ ▁ ▁
 
 ---
 
-*Last updated: December 31, 2025 at 00:15 UTC*  
+*Last updated: January 01, 2026 at 00:16 UTC*  
 *Stats auto-generated from GitHub API*
 
 </div>
